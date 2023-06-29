@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Aprendendo Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcomansomm/Api-Rest_node.git"
+  },
+  "author": "Marcoantonio Manso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcomansomm/Api-Rest_node/issues"
+  },
+  "homepage": "https://github.com/marcomansomm/Api-Rest_node#readme"
+}
